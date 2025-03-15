@@ -1,2 +1,4 @@
 # project-planning
-Inidividual Project Planning Stage
+Individual Project Planning Stage
+
+Has files for reproducible code in .ipynb notebook
